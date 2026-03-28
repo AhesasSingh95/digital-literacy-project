@@ -6,6 +6,8 @@ Branch: B.Tech Artificial Intelligence & Machine Learning
 
 Year: First Year
 
+registration number : 25BAI10027
+
 📌 Project Overview
 This project was completed as part of the Digital Literacy course. It focuses on building essential digital skills such as visual communication, professional networking, coding practice, collaboration, communication etiquette, and cybercrime awareness.
 
